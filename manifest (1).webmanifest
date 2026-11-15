@@ -1,0 +1,38 @@
+{
+  "id": "./",
+  "name": "Mini Pocket",
+  "short_name": "Mini Pocket",
+  "description": "Latihan untuk tes TOEFL ITP®: Listening, pola grammar, bank soal + pembahasan, simulasi berwaktu, kosakata, dan strategi. Bisa dipakai offline. TOEFL and TOEFL ITP are registered trademarks of ETS. This product is not endorsed or approved by ETS.",
+  "lang": "id",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2f3f8",
+  "theme_color": "#3b4cca",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
